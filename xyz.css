@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    background: url(daniel-olah-ywa2300CL5U-unsplash.jpg) center no-repeat fixed;
+    background-size: cover;
+    color: cornsilk;
+}
+
+textarea{
+    color: cornsilk;
+}
+
+/*h1, p, pre{
+    color: blanchedalmond;
+}*/
